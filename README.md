@@ -1,40 +1,36 @@
 <h1 align="center">Hi 👋, I'm Azaz Ahmed Akib</h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;+JavaScript+%7C+React+%7C+Next.Js;Always+Learning+New+Things;Computer+Science+Student&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akib001&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="akib001" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- food and anime are the reasons to live.
+🌟 I’ve over 1.5 years of experience in Javascript and React<br><br>
+🧑‍💻 I love using Software as a solution for every Problem <br><br>
+🌱 I’m currently learning Full Stack Web Development<br><br>
+🤔 I’m currently open for: A new job opportunity or Freelance Work<br><br>
+😄 Fun fact: I love Bikes(🏍️), Coding(💻), Traveling(🌍)<br>
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adam pithewan" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/akib007/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      alt="Azaz Ahmed" height="30" width="40" /></a>
+  <a href="https://fb.com/akibahmed2011" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="Azaz Ahmed" height="30" width="40" /></a>
+ <a href="mailto:akibahmed2011@gmail.com" target="blank"><img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/281/281769.png"
+      alt="Azaz Ahmed" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -92,21 +88,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
-
-<br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="adam-pw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-[Adam-pw](https://github.com/Adam-pw)
+[akib001](https://github.com/akib001)
