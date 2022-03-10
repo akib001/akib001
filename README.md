@@ -16,7 +16,7 @@
 🧑‍💻 I love using Software as a solution for every Problem <br><br>
 🌱 I’m currently learning Full Stack Web Development<br><br>
 🤔 I’m currently open for: A new job opportunity or Freelance Work<br><br>
-😄 Fun fact: I love Bikes(🏍️), Coding(💻), Traveling(🌍)<br>
+😄 Fun fact: I love Bikes(🏍️), Coding(💻), Traveling(🌍), Movies(🍿)<br>
 
 <br>
 
