@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azaz Ahmed Akib</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;+JavaScript+%7C+React+%7C+Next.Js;Always+Learning+New+Things;Computer+Science+Student&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;+JavaScript+%7C+%7C+Next.Js+NestJs;Always+Learning+New+Things;Computer+Science+Graduate&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=akib001&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,9 +12,8 @@
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" /></p>
 
 
-🌟 I’ve over 1.5 years of experience in Javascript and React<br><br>
-🧑‍💻 I love using Software as a solution for every Problem <br><br>
-🌱 I’m currently learning Full Stack Web Development<br><br>
+🌟 I’ve over 3 years of experience in Javascript, React and Nodejs<br><br>
+🧑‍💻 I love using Software as a solution for every problem <br><br>
 🤔 I’m currently open for: A new job opportunity or Freelance Work<br><br>
 😄 Fun fact: I love Bikes(🏍️), Coding(💻), Traveling(🌍), Movies(🍿)<br>
 
