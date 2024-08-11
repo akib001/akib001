@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" /></p>
 
 
-🌟 I’ve over 3 years of experience in Javascript, React and Nodejs<br><br>
+🌟 I’ve over 4 years of experience in Javascript, React and Nodejs<br><br>
 🧑‍💻 I love using Software as a solution for every problem <br><br>
 🤔 I’m currently open for: A new job opportunity or Freelance Work<br><br>
 😄 Fun fact: I love Bikes(🏍️), Coding(💻), Traveling(🌍), Movies(🍿)<br>
